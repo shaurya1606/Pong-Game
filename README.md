@@ -9,7 +9,7 @@ A modern implementation of the classic Pong game using HTML5 Canvas, JavaScript,
 - Mouse-controlled player paddle
 - Dynamic ball physics with "spin" effect
 - Clean, minimalist design
-- Responsive canvas gameplay
+- Responsive canvas gameplay 
 - Center net visualization
 
 ## 🚀 Getting Started
